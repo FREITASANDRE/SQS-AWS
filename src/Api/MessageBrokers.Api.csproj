@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp2\MessageBroker.Sqs.csproj" />
+    <ProjectReference Include="..\Core\MessageBroker.Sqs.csproj" />
   </ItemGroup>
 
 </Project>
